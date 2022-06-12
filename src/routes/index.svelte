@@ -23,7 +23,7 @@
 		to your new<br />SvelteKit app
 	</h1>
 
-	<h2 class="bg-blue-400">
+	<h2 class="bg-red-400">
 		try editing <strong>src/routes/index.svelte</strong>
 	</h2>
 
