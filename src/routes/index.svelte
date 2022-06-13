@@ -12,21 +12,6 @@
 </svelte:head>
 
 <section>
-	<h1>
-		<span>
-			<picture>
-				<source srcset="svelte-welcome.webp" type="image/webp" />
-				<img src="svelte-welcome.png" alt="Welcome" />
-			</picture>
-		</span>
-
-		to your new<br />SvelteKit app
-	</h1>
-
-	<h2 class="bg-red-400">
-		try editing <strong>src/routes/index.svelte</strong>
-	</h2>
-
 	<Counter />
 </section>
 
